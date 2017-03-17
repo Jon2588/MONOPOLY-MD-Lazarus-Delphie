@@ -1,0 +1,2 @@
+# MONOPOLY-MD-Lazarus-Delphie
+Hello I am a German Highschool  student and started to create a graphic monopoly game.  This was my semester project for informaitcs. In the limited time and skills i used lazarus to create generic a  graphic play board and a file system behind it. I welcome you just to play the game in it's functionality of today or use the code to improve it. If you made something cool with it,. Please share it
